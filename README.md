@@ -1,3 +1,7 @@
+[![Open in Streamlit]
+(https://static.streamlit.io/badges/streamlit_badge_black_white.svg)](https://csepblproject-eoqnw82dzqqgrjsbnx7uxc.streamlit.app/)
+
+
 # CardioVanguard Pro
 This is a cardiac risk assessment project developed for CSE PBL. It helps predict the risk of heart disease by looking at both medical data and lifestyle factors like stress, diet, and smoking.
 

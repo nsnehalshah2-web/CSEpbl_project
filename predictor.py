@@ -46,22 +46,3 @@ def predict(input_data: dict):
         "probability": probability
     }
 
-
-# example usage
-# sample_input = {
-#     "age": 52,
-#     "sex": 1,
-#     "cp": 0,
-#     "trestbps": 125,
-#     "chol": 212,
-#     "fbs": 0,
-#     "restecg": 1,
-#     "thalach": 168,
-#     "exang": 0,
-#     "oldpeak": 1.0,
-#     "slope": 2,
-#     "ca": 0,
-#     "thal": 2
-# }
-# result = predict(input_data=sample_input)
-# print(result)
